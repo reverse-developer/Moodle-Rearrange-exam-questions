@@ -1,0 +1,18 @@
+.qtext {
+    font-size: 1.5em;
+}
+
+.rightanswer {
+    font-weight: bold;
+    color: #669900;
+    font-size: 1.2em;
+}
+
+.content {
+
+}
+
+.question_content {
+    padding: 10px 50px 20px 50px;
+    border-bottom: 4px solid #999966;
+}
